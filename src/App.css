@@ -1,4 +1,16 @@
-.App {
+body {
+  background-color: red;
+}
+
+.posts{
+  background-color: indigo;
+  color: #fff;
+  border: 1px solid #999;
+  padding: 20px;
+}
+
+
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +47,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
